@@ -20,6 +20,7 @@ Want to contribute? Check out our repos, submit issues or pull requests, and joi
 - Semantics PDF: [COW Semantics](https://bigzaphod.github.io/COW/semantics-cow-english.pdf)  
 - Other references: [Frank Buss’ page](https://frank-buss.de/cow.html)
 - [The original project](https://github.com/BigZaphod/COW)
+- [Esolang Wiki - COW](https://esolangs.org/wiki/COW)
 
 ### Fun Fact
 Cow is a language where your code literally speaks in moos. Turn those cow sounds into programs! 🐄🚀
