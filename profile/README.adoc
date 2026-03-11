@@ -1,6 +1,6 @@
 = Hi there 👋
 
-Welcome to *THE COW ORGANIZATION*, the official hub for the Cow programming language, maintained by *tronpis*.  
+Welcome to *THE COW ORGANIZATION*, the official hub for the Cow programming language.  
 Cow is an esoteric language originally created by *BigZaphod (Sean Heber)* and officially authorized by him. Our goal is to professionalize Cow and make it usable, fun, and documented.
 
 ---
